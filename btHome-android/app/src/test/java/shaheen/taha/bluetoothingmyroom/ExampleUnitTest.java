@@ -1,4 +1,4 @@
-package shaheen.taha.bluetoothhomev2;
+package shaheen.taha.bluetoothingmyroom;
 
 import org.junit.Test;
 
